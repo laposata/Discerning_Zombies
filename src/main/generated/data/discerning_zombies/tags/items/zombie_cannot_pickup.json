@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "#discerning_zombies:zombie_cannot_pickup_loot",
+    "#discerning_zombies:zombie_cannot_pickup_plant",
+    "#discerning_zombies:zombie_cannot_pickup_blocks"
+  ]
+}

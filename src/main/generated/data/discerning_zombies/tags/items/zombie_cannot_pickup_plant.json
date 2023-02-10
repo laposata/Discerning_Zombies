@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:wheat_seeds",
+    "minecraft:wheat",
+    "minecraft:carrot",
+    "minecraft:potato",
+    "minecraft:poisonous_potato",
+    "minecraft:beetroot",
+    "minecraft:kelp",
+    "minecraft:glow_berries",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "minecraft:beetroot_seeds"
+  ]
+}

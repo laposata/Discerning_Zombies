@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dirt",
+    "minecraft:sand",
+    "minecraft:cobblestone",
+    "minecraft:gravel",
+    "minecraft:grass_block",
+    "minecraft:cobbled_deepslate"
+  ]
+}
